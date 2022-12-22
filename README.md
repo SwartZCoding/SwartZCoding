@@ -35,5 +35,5 @@ Hi there 👋 Anto', Java Developer since 4 years. I own [CenturyGroup](https://
 
 ## ❱ Contact
 
-![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://discord.gg/Jx7rKwQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a href="https://github.com/SwartZCoding" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
