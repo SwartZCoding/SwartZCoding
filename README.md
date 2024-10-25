@@ -1,5 +1,5 @@
 ## About me
-Hi there 👋 Anto', Java Developer since 4 years. I own [CenturyGroup](https://github.com/CenturyGroup).
+Hi there 👋 Anto', Web Developer since 4 years. I own [Clinkt.me](https://clinkt.me).
 
 ## ❱ My working environment
 
